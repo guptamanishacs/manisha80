@@ -1,0 +1,78 @@
+  #for over list
+
+for val in [2,'two',3,4,5,'A']:
+  print(val,end='--')
+  print(val)
+  print()
+  print("--"*20)
+
+2--2
+----------------------------------------
+two--two
+
+----------------------------------------
+3--3
+
+----------------------------------------
+4--4
+
+----------------------------------------
+5--5
+
+----------------------------------------
+A--A
+
+----------------------------------------
+
+  #using loop over string
+
+print("for over string".center(40,"-"))
+word=input("enter word/sentance:")
+for s in word:
+    print(s.upper(),end='-')
+    print()
+    print("-"*20)
+
+------------for over string-------------
+enter word/sentance:manisha
+M-
+--------------------
+A-
+--------------------
+N-
+--------------------
+I-
+--------------------
+S-
+--------------------
+H-
+--------------------
+A-
+--------------------
+
+
+
+print("for over dictionary".center(40,"-"))
+stud={1:"manisha",2:"priyanka",3:"nisha",4:"ranjana"}
+student_D={"Roll no":12,"Name":"Abhishek","grade":"x","div":"a"}
+student_S={"Roll":7,"name":"pramod","grade":"x","div":"C"}
+print("keys:")
+for k in stud:
+    print(k,end=" ")
+print("value:")
+for v in student_D:
+    print(v,end=" ")
+print("items:")
+for v in student_S:
+    print(v,end="-")
+
+----------for over dictionary-----------
+keys:
+1 2 3 4 value:
+Roll no Name grade div items:
+Roll-name-grade-div-
+
+
+
+
+
