@@ -1,0 +1,19 @@
+Title: GitHub Case Study: A Deep Dive into Developmental Models, Licensing, Funding, Commercial, and Non-Commercial Use
+
+Introduction:
+GitHub, a web-based platform for version control and collaborative software development, has become a pivotal player in the world of software development. This case study explores various facets of GitHub, including its developmental model, licensing strategy, mode of funding, and the distinctions between commercial and non-commercial use.
+
+Developmental Model:
+GitHub's developmental model revolves around open-source collaboration. It serves as a hosting platform for Git repositories, enabling developers worldwide to collaborate on projects. Developers can contribute code, report issues, and suggest enhancements through pull requests. This model promotes transparency, community-driven development, and fosters innovation.
+
+License:
+GitHub offers a range of licensing options for software projects hosted on its platform. The choice of license dictates how others can use, modify, and distribute the code. Common licenses include the MIT License, Apache License, GNU General Public License (GPL), and more. Developers can select a license that aligns with their project's goals, whether it's permissive (like MIT) or copyleft (like GPL).
+
+Mode of Funding:
+GitHub's primary mode of funding comes from its subscription plans and enterprise services. It offers free accounts for public repositories but charges for private repositories and additional features such as advanced security and code review tools. In 2018, Microsoft acquired GitHub, which further solidified its financial stability and commitment to the developer community.
+
+Commercial Use:
+GitHub is widely used for commercial purposes, primarily by businesses and organizations that develop software products. They often opt for private repositories to protect their proprietary code and leverage GitHub's collaboration tools to streamline development workflows. GitHub's robust integration capabilities with various development tools make it a preferred choice for commercial software development.
+
+Non-Commercial Use:
+GitHub also caters to non-commercial use cases. Many open-source projects, educational institutions, and individual developers use GitHub to host and collaborate on free and open-source software (FOSS) projects. GitHub Education provides free resources for students and educators to promote learning and collaboration within the academic community.
